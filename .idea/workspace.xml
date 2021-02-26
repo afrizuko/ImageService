@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf09d97-145f-4aa7-bbce-7428c0e731c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1002121_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1002121_signature.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p0hqcyIcAbmFaLrFPs4y4X3I32" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build iscalr.go">
+    <configuration name="go build github.com/afrizuko/iscalr" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="imageService" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="sqlserver://lite:N3ptun3123*@185.162.124.188?database=EquiWebStaging&amp;connection+timeout=30" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/iscalr.go" />
+      <package value="github.com/afrizuko/iscalr" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build iscalr.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="imageService" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="sqlserver://lite:N3ptun3123*@185.162.124.188?database=EquiWebStaging&amp;connection+timeout=30   " />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/iscalr.go" />
+      <package value="github.com/afrizuko/iscalr" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build github.com/afrizuko/iscalr" />
+      <item itemvalue="Go Build.go build iscalr.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build iscalr.go" />
+        <item itemvalue="Go Build.go build github.com/afrizuko/iscalr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf09d97-145f-4aa7-bbce-7428c0e731c3" name="Default Changelist" comment="" />
+      <created>1614326106563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614326106563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="684" key="#Go_Modules_(vgo)" timestamp="1614326379230">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#Go_Modules_(vgo)/0.27.1366.741@0.27.1366.741" timestamp="1614326379230" />
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614340057670">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1614340057670" />
+    <state x="312" y="177" width="731" height="452" key="EditFileWatcherDialog" timestamp="1614326424523">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="312" y="177" width="731" height="452" key="EditFileWatcherDialog/0.27.1366.741@0.27.1366.741" timestamp="1614326424523" />
+    <state width="1320" height="124" key="GridCell.Tab.0.bottom" timestamp="1614345201057">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="124" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1614345201057" />
+    <state width="1320" height="124" key="GridCell.Tab.0.center" timestamp="1614345201057">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="124" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1614345201057" />
+    <state width="1320" height="124" key="GridCell.Tab.0.left" timestamp="1614345201056">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="124" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1614345201056" />
+    <state width="1320" height="124" key="GridCell.Tab.0.right" timestamp="1614345201057">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="124" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1614345201057" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1614327823789">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1614327823789" />
+    <state x="331" y="134" width="704" height="526" key="find.popup" timestamp="1614327821671">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="331" y="134" width="704" height="526" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1614327821671" />
+  </component>
+</project>

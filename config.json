@@ -1,0 +1,5 @@
+{
+  "dsn_url": "sqlserver://user:pass@ip_address?database=your_db&connection+timeout=30",
+  "images_dir": "images",
+  "max_routines": 1
+}
